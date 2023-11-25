@@ -5,7 +5,7 @@
 - <b>Google Cybersecurity Professional</b><br/>
 - <b>Comptia Sec+(Pending 1/2024)</b><br/>
   
-<h2> Projects:</h2>
+<h2> Projects Inprogress:</h2>
 
 - <b>Security Operations/Theat Detetction</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] Complete
