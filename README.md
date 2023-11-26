@@ -7,8 +7,8 @@
   
 <h2> Projects Inprogress:</h2>
 
-- <b>Security Operations/Theat Detetction</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] Complete
+- <b>Security Operations/Threat Detetction</b>
+  - [Azure Sentinel SIEM - Live Threat Map](https://github.com/syko121/SIEM-Azure-Sentinel-Map-with-FAILED-RDP-ATTTEMPTS) COMPLETE
   - [Investingating with Splunk]
   - [Incident handling with Splunk]
   - [Sigma]
