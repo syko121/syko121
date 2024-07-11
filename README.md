@@ -3,7 +3,7 @@
 <h2>Certifications:</h2>
 - <b>Comptia A+</b><br/>
 - <b>Google Cybersecurity Professional</b><br/>
-- <b>Comptia Sec+(Pending 1/2024)</b><br/>
+- <b>Comptia Sec+(Pending 2024)</b><br/>
   
 <h2> Projects Inprogress:</h2>
 
